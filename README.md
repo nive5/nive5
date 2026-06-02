@@ -105,9 +105,9 @@ Projects focused on Generative AI, NLP, Machine Learning, and intelligent automa
 
 ## Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: nivethithalaksmi@gmail.com
 
-💼 LinkedIn: your-linkedin-profile
+💼 LinkedIn: https://www.linkedin.com/in/nivethitha-s-38b42b258/
 
 🌐 Portfolio: coming soon
 
