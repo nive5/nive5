@@ -1,16 +1,118 @@
-## Hi there 👋
+# Hi 👋, I'm Nivethitha
 
-<!--
-**nive5/nive5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Developer
 
-Here are some ideas to get you started:
+💻 Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Engineering Student
+
+☕ Java Developer
+
+🚀 Building AI-Powered Applications
+
+---
+
+## About Me
+
+- 🌱 Currently learning Java DSA, Machine Learning, Generative AI, and Spring Boot
+- 💡 Interested in Artificial Intelligence, Software Development, and Problem Solving
+- 🚀 Building AI-powered applications and intelligent solutions
+- 📚 Continuously improving my programming and communication skills
+- 🎯 Goal: Become an AI Engineer / Software Developer
+
+---
+
+## Skills
+
+### Programming Languages
+- Java
+- Python
+- SQL
+- C
+
+### AI & Machine Learning
+- Machine Learning
+- Generative AI
+- Prompt Engineering
+- Natural Language Processing (NLP)
+- LangChain
+- Hugging Face
+- AI Chatbots
+- Retrieval-Augmented Generation (RAG)
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management Systems (DBMS)
+- Operating Systems
+- Computer Networks
+
+### Web & Backend Development
+- Spring Boot
+- REST APIs
+- JDBC
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## Featured Projects
+
+### 🤖 AI Therapist
+AI-powered mental wellness assistant with chatbot, mood tracking, recommendations, stress analysis, and habit monitoring.
+
+### 📚 EPUB Language Tagging Tool
+Python-based tool that automatically detects and tags language metadata in EPUB files.
+
+### 🎓 Student Management System
+Java-based CRUD application for managing student records efficiently.
+
+### 🤖 AI & Machine Learning Projects
+Projects focused on Generative AI, NLP, Machine Learning, and intelligent automation.
+
+---
+
+## Current Learning Journey
+
+✔ Advanced Java
+
+✔ Data Structures & Algorithms
+
+✔ Machine Learning
+
+✔ Generative AI
+
+✔ LangChain
+
+✔ Spring Boot
+
+✔ System Design
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nive5&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nive5&layout=compact)
+
+---
+
+## Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: your-linkedin-profile
+
+🌐 Portfolio: coming soon
+
+---
+
+### Quote
+
+"Learning every day. Building every day. Improving every day."
