@@ -60,6 +60,11 @@
 - Postman
 
 ---
+# Hi, I'm Nivethitha 👋
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma" />
+</a>
 
 ## Featured Projects
 
