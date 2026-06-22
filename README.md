@@ -21,6 +21,9 @@
 
 🧠 Solved 1250+ coding problems across LeetCode, GeeksforGeeks, and Skillrack.
 
+<img align="right" alt="Coding Girl" width="350"
+src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+
 🌱 Currently learning:
 - Advanced Java
 - Spring Boot
