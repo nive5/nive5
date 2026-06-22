@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nivethitha S</h1>
 <h3 align="center">Java Developer | AI Developer | Problem Solver</h3>
 
-<img align="right" alt="Coding Girl" width="350"
-src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="center">
   <a href="https://leetcode.com/u/nivethithalaksmi/">
