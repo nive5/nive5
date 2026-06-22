@@ -1,123 +1,191 @@
-# Hi 👋, I'm Nivethitha
+<h1 align="center">Hi 👋, I'm Nivethitha S</h1>
+<h3 align="center">Java Developer | AI Developer | Problem Solver</h3>
 
-🤖 AI Developer
-
-💻 Software Developer
-
-🎓 Engineering Student
-
-☕ Java Developer
-
-🚀 Building AI-Powered Applications
-
----
-
-## About Me
-
-- 🌱 Currently learning Java DSA, Machine Learning, Generative AI, and Spring Boot
-- 💡 Interested in Artificial Intelligence, Software Development, and Problem Solving
-- 🚀 Building AI-powered applications and intelligent solutions
-- 📚 Continuously improving my programming and communication skills
-- 🎯 Goal: Become an AI Engineer / Software Developer
+<p align="center">
+  <a href="https://leetcode.com/u/nivethithalaksmi/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://github.com/nive5">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## Skills
+## 🚀 About Me
+
+🎓 B.E. Electronics and Communication Engineering (CGPA: 9.08)
+
+💻 Passionate Software Developer focused on Java, Spring Boot, AI, and Machine Learning.
+
+🧠 Solved 1250+ coding problems across LeetCode, GeeksforGeeks, and Skillrack.
+
+🌱 Currently learning:
+- Advanced Java
+- Spring Boot
+- Machine Learning
+- Generative AI
+- System Design
+
+🎯 Career Goal:
+Become a Software Engineer / Java Developer and build scalable AI-powered applications.
+
+---
+
+## 🏆 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/nivethithalaksmi/">
+<img src="https://img.shields.io/badge/LeetCode-nivethithalaksmi-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank"/>
+</a>
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+<p align="center">
+<a href="https://leetcode.com/u/nivethithalaksmi/">
+<img src="https://leetcard.jacoblin.cool/nivethithalaksmi?theme=dark&font=Karma&ext=contest" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### Programming Languages
-- Java
-- Python
-- SQL
-- C
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+- Spring Boot
+- REST APIs
+- JDBC
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
 - Machine Learning
 - Generative AI
 - Prompt Engineering
 - Natural Language Processing (NLP)
 - LangChain
 - Hugging Face
-- AI Chatbots
 - Retrieval-Augmented Generation (RAG)
+- AI Chatbots
 
 ### Core Computer Science
+
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOP)
 - Database Management Systems (DBMS)
 - Operating Systems
 - Computer Networks
-
-### Web & Backend Development
-- Spring Boot
-- REST APIs
-- JDBC
-- MySQL
+- Complexity Analysis
 
 ### Tools & Technologies
-- Git
-- GitHub
-- VS Code
-- Postman
 
----
-# Hi, I'm Nivethitha 👋
-
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Karma" />
-</a>
-
-## Featured Projects
-
-### 🤖 AI Therapist
-AI-powered mental wellness assistant with chatbot, mood tracking, recommendations, stress analysis, and habit monitoring.
-
-### 📚 EPUB Language Tagging Tool
-Python-based tool that automatically detects and tags language metadata in EPUB files.
-
-### 🎓 Student Management System
-Java-based CRUD application for managing student records efficiently.
-
-### 🤖 AI & Machine Learning Projects
-Projects focused on Generative AI, NLP, Machine Learning, and intelligent automation.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,react,postman" />
+</p>
 
 ---
 
-## Current Learning Journey
+## 📈 GitHub Stats
 
-✔ Advanced Java
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=nive5&show_icons=true&theme=tokyonight" />
 
-✔ Data Structures & Algorithms
-
-✔ Machine Learning
-
-✔ Generative AI
-
-✔ LangChain
-
-✔ Spring Boot
-
-✔ System Design
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nive5&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## GitHub Stats
+## 🔥 GitHub Streak
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nive5&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nive5&layout=compact)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nive5&theme=tokyonight" />
+</p>
 
 ---
 
-## Connect With Me
+## 🏆 Achievements
+
+✅ Solved 1250+ Coding Problems
+
+✅ Academic Topper
+
+✅ AI Developer Intern at Newgen KnowledgeWorks
+
+✅ Backend Developer Intern at Askan Technologies
+
+✅ Open Source Contributor
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 AI-Based Mental Wellness Web App
+
+- AI-powered mental wellness assistant
+- Emotion detection and personalized support
+- OpenAI NLP integration
+- Responsive and privacy-focused dashboard
+
+### 💳 Real-Time UPI Fraud Detection System
+
+- XGBoost-based fraud detection
+- 94% detection accuracy
+- FastAPI deployment
+- Real-time monitoring dashboard
+
+### 🛒 E-Commerce Backend Application
+
+- Spring Boot
+- REST APIs
+- MySQL
+- CRUD Operations
+- Order Management
+
+---
+
+## 📫 Connect With Me
 
 📧 Email: nivethithalaksmi@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/nivethitha-s-38b42b258/
+💻 GitHub: https://github.com/nive5
 
-🌐 Portfolio: coming soon
+🔗 LinkedIn: Add Your LinkedIn URL
+
+🏆 LeetCode: https://leetcode.com/u/nivethithalaksmi/
 
 ---
 
-### Quote
-
-"Learning every day. Building every day. Improving every day."
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
