@@ -180,7 +180,9 @@ Become a Software Engineer / Java Developer and build scalable AI-powered applic
 
 💻 GitHub: https://github.com/nive5
 
-🔗 LinkedIn: Add Your LinkedIn URL
+🔗 LinkedIn: www.linkedin.com/in/
+nivethitha-s-38b42b258
+
 
 🏆 LeetCode: https://leetcode.com/u/nivethithalaksmi/
 
