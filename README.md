@@ -114,7 +114,7 @@ Become a Software Engineer / Java Developer and build scalable AI-powered applic
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,react,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,react,postman,apps script" />
 </p>
 
 ---
