@@ -111,10 +111,22 @@ Become a Software Engineer / Java Developer and build scalable AI-powered applic
 - Computer Networks
 - Complexity Analysis
 
-### Tools & Technologies
+## 🛠️ Tools & Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,react,postman,apps script" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,spring,mysql,git,github,vscode,docker,postman,eclipse,idea,maven,linux" />
+</p>
+
+### Other Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=for-the-badge" />
 </p>
 
 ---
